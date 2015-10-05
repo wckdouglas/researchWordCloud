@@ -1,0 +1,592 @@
+ARTICLE
+Received 25 Oct 2013 | Accepted 29 Apr 2014 | Published 30 May 2014
+DOI: 10.1038/ncomms5000
+
+OPEN
+
+Generation of organized germ layers from a single mouse embryonic stem cell
+Yeh-Chuin Poh1,2, Junwei Chen1, Ying Hong1, Haiying Yi1, Shuang Zhang1, Junjian Chen1, Douglas C. Wu2, Lili Wang1, Qiong Jia1, Rishi Singh2, Wenting Yao1, Youhua Tan1,2, Arash Tajik2, Tetsuya S. Tanaka3,4 & Ning Wang1,2
+
+Mammalian inner cell mass cells undergo lineage-specific differentiation into germ layers of endoderm, mesoderm and ectoderm during gastrulation. It has been a long-standing challenge in developmental biology to replicate these organized germ layer patterns in culture. Here we present a method of generating organized germ layers from a single mouse embryonic stem cell cultured in a soft fibrin matrix. Spatial organization of germ layers is regulated by cortical tension of the colony, matrix dimensionality and softness, and cell­cell adhesion. Remarkably, anchorage of the embryoid colony from the 3D matrix to collagen-1coated 2D substrates of B1 kPa results in self-organization of all three germ layers: ectoderm on the outside layer, mesoderm in the middle and endoderm at the centre of the colony, reminiscent of generalized gastrulating chordate embryos. These results suggest that mechanical forces via cell­matrix and cell­cell interactions are crucial in spatial organization of germ layers during mammalian gastrulation. This new in vitro method could be used to gain insights on the mechanisms responsible for the regulation of germ layer formation.
+
+for Cell Biomechanics and Regenerative Medicine, Department of Biomedical Engineering, School of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, Hubei 430074, China. 2 Department of Mechanical Science and Engineering, College of Engineering, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA. 3 Department of Chemical and Biomolecular Engineering, University of Notre Dame, Notre Dame, Indiana 46556, USA. 4 Department of Biological Science, University of Notre Dame, Notre Dame, Indiana 46556, USA. Correspondence and requests for materials should be addressed to N.W. (email: nwangrw@illinois.edu).
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+1 Laboratory
+
+1
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+ppropriate organization of three germ layers--endoderm, mesoderm and ectoderm--during gastrulation is essential for a developing embryo. Mechanistic studies on the morphogenesis of embryos in Drosophila, Caenorhabditis elegans, zebrafish and Xenopus have suggested important roles of mechanical forces in embryonic organization1­5. However, whether these embryos are similar to or different from those mammalian embryos remains unclear, because the study of mammalian embryo organization remains challenging due to the inaccessibility of in vivo embryos and lack of appropriate in vitro models. Embryoid bodies (EBs), formed by aggregation of embryonic stem (ES) cells (derived from inner cell mass cells of the blastocyst) in suspension, are used as in vitro models of differentiation6,7, but it has not been possible to manipulate generation of organized germ layers in EBs. A recent report shows that mouse ES cell aggregates can be induced to form polarized rosettes in vitro, followed by luminogenesis, similar to a developing embryo in vivo8. However, evidence for in vitro selforganization of three germ layers with correct positioning is still lacking. Here we present a novel method of generating embryoid colonies with organized germ layers from a single ES cell and show the factors controlling the germ layer organization. The endoderm, mesoderm and ectoderm layers are positioned at the inner, middle and outer layer of the growing colony, reminiscent of the layering of a generalized chordate gastrulating embryo. The layering of tissues as they express gastrulation markers can be inverted depending upon culture conditions. Results Generation of organized germ layers. To dynamically monitor the status of pluripotency or mesodermal lineage differentiation of a single cell, we developed a mouse ES cell line (namely OGTR1) that stably expresses green fluorescent protein (GFP) driven by the Oct4 (Pou5f1) promoter and red fluorescent protein (DsRed) driven by the Brachyury (T) promoter. To provide an appropriate mechanical and chemical niche to an ES cell, we plated the single OGTR1 ES cell within a soft fibrin gel9 of 90-Pa (Fig. 1a), which is B4-fold softer than the mouse ES cell10. In the presence of the self-renewal factor--Leukaemia Inhibitory Factor (LIF)11--the ES cell grew into a large round colony of 41,000 cells within 5 days at a doubling rate of B11 h (ref. 10). The colony expressed a high level of Oct4 and no Brachyury, suggesting that these cells maintained pluripotency and selfrenewing capacity (Fig. 1a; Supplementary Fig. 1). Interestingly, we did not observe heterogeneous expression of DsRed driven by the Brachyury promoter12. This observation was validated by RT­ PCR (Supplementary Fig. 2), consistent with previously published results13. In contrast, when plated in the absence of LIF for 5 days, a single OGTR1 ES cell divided and started to differentiate after B48 h (Supplementary Fig. 1), and grew into a colony of three distinct layers: a Gata6-positive layer indicative of endoderm at the inner layer, a Sox1-positive layer indicative of ectoderm at the middle layer and a DsRed (Brachyury)-positive layer indicative of mesoderm at the outer layer (Fig. 1b,c). The differentiation of the ES cells without LIF in the matrix was confirmed by RT­PCR as the expression of other lineage-specific genes was quantified (Supplementary Fig. 2). Real-time qRT­PCR analysis of position-specific germ layer markers further verified that the observed ectoderm (Fgf5, Otx2, Sox1 and Pax6), mesoderm (Hand1, Brachyury, Twist2, FoxA2 and Mixl1) and endoderm (Gata4, Gata6 and Sox17) are truly bona fide (Figs 2­4; Supplementary Fig. 3). In comparison, using a conventional hanging drop assay to generate EBs, ES cells failed to form distinct patterns of germ layers (Supplementary Fig. 4), consistent
+2
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+A
+
+with published results6,7,14. Plating a single ES cell on top of a 2D fibrin gel of 90-Pa resulted in both Gata6- and Sox1-positive layers appearing throughout the depth of the colony (Supplementary Fig. 5), suggesting that a single ES cell plated in a very soft 3D niche grew more efficiently into self-organized germ layers than ES cells plated on a 2D substrate of the same softness. To assess the roles of cell­cell and cell­matrix interactions in germ layer organization, we disrupted cell­ matrix interaction and cell­cell interaction. Blocking cell­fibrin interactions with the avb3 antagonist resulted in a dosedependent appearance of the Gata6-positive layer at the outer layer, with little change to the position of either the Brachyury- or Sox1-positive layer (Fig. 1d; Supplementary Fig. 6), suggesting that engaging fibrin via avb3 integrin and the subsequent tension generation (Fig. 6) may be important for the correct positioning of the endoderm layer. Blocking inter-E-cadherin adhesion with anti-E-cadherin antibodies (Fig. 1e) or addition of EGTA to disrupt calcium-sensitive, cadherin-mediated cell­cell adhesion (Supplementary Fig. 7) completely abrogated the organization of the germ layers, consistent with reports that cell­cell interactions are crucial in early embryogenesis15­22. Although the underlying molecular mechanism for controlling the organization of each germ layer remains unknown (see our discussion below), these results are consistent with a recent finding that cell­cell interaction is important in stem cell differentiation23 and myosin-IIA-mediated tension in the growing mouse embryoid colony is important in the appropriate positioning and organization of germ layers22. Dependence of embryoid colony growth on matrix softness. To further explore what dictates the growth rate of a single ES cell, we plated the cells within 3D fibrin matrices of varying softness. Five days after a single cell was plated, the resulting colony was much larger in the 90-Pa gel than the ones grown in the 420 or 1,050-Pa gel, in both the presence and absence of LIF (Fig. 5a,b,e). The proliferation rate of ES cells on 2D matrix was similar to those in 3D 90-Pa soft fibrin gels regardless of the 2D matrices stiffness, but the proliferation rate of cells in 3D fibrin gels decreased as matrix stiffness increased (Supplementary Fig. 8), suggesting that a stiffer 3D matrix may pose a stronger physical barrier for the colony to increase its size as the cells divide. Interestingly, while colonies in all three matrices were spherical in the presence of LIF (Fig. 5c), the colonies in the 90-Pa matrix without LIF decreased their roundness much more significantly than those in 420 or 1,050-Pa matrix (Fig. 5a(insets),f), suggesting that it is easier for the cells to move outward in the softest gel. The cells in the 90-Pa gel also increased DsRed expression slightly more than those in stiffer gels (Fig. 5g), whereas EGFP levels were similar (Fig. 5d). It is important to note that elevating the fibrin gel stiffness from 90 to 1,050 Pa was achieved by an increase in fibrin concentration from 1 to 8 mg ml À 1 and thus a decrease in gel porosity. Hence it was difficult to discern whether it was the elasticity or the porosity of the gel that dictates the circularity of the colony. However, when a single ES cell was plated in the 3D fibrin gel of 90-Pa near the bottom of the plastic dish (B2 mm above it), it grew into a spread colony in the presence of LIF (Supplementary Fig. 9). Since the porosity of the gel was the same for all cells in the gel, the cells near the bottom must have felt the stiffness of the rigid dish, consistent with the published reports24,25. These data suggest that it is the matrix stiffness, but not the matrix porosity, that dictates the spreading propensity of the ES cell. Colony tension impacts germ layer organization. To explore the potential role of tension in germ layer organization, we quantified
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+ARTICLE
+120 h Endoderm
+Gata6
+
+a
+Bright-field
+
+0h
+
+120 h
+
+b
+Bright-field
+
+0h
+
+c
+250 200 Endo Ecto Meso
+
+Ectoderm
+Sox1
+
+Intensity (a.u.)
+
+150 100 50 0
+Gata6 Sox1 Brachyury
+
++LIF Oct4
+
+­LIF Oct4
+
+Brachyury
+
+Brachyury
+
+Mesoderm
+Brachyury
+
+0.0 0.2 0.4 0.6 0.8 1.0 Distance from center (a.u.)
+
+d
+Endoderm Gata6
+
++ v3 antagonist 250 Intensity (a.u.) 200 150 100 50 0 0.0 0.2 0.4 0.6 0.8 1.0 Distance from center (a.u.)
+Sox1 Gata6 Brachyury
+
+e
+
++ E-cadherin antibody
+Endoderm Gata6
+
+250 Intensity (a.u.) 200 150 100 50 0 0.0 0.2 0.4 0.6 0.8 1.0 Distance from center (a.u.)
+Gata6 Brachyury Sox1
+
+Ectoderm Sox1
+
+Ectoderm Sox1
+
+Mesoderm Brachyury
+
+Mesoderm Brachyury
+
+Figure 1 | Soft fibrin gels promote organization of germ layers. (a) Representative bright-field (top) and fluorescence (middle and bottom) images of a single ESC cultured in soft 3D fibrin gels in the presence of LIF (0 h) that formed a round spherical colony in 5 days (120 h). Strong EGFP fluorescence was observed (middle, `Oct4'), whereas no DsRed fluorescence was observed (bottom, `Brachyury'). (b) Representative images of a single ESC cultured in soft fibrin gels without LIF (0 h, the bright-field image is on the top and the fluorescence images on the middle and bottom, left column) that formed a colony with organized germ layers in 5 days (middle and left columns). Middle: bright-field images of colonies grown from three single cells; right: the presence of endo- and ectodermal cells was detected by immunofluorescence microscopy using anti-Gata6 and Sox1 antibodies, respectively, whereas DsRed fluorescence indicated the differentiation of mesodermal cells (Brachyury). Lines were used to acquire the fluorescence intensity data shown in (c). (c) Quantification of germ layer organization along with 0 (at the centre core) and 1 (at the colony boundary) arbitrary unit (a.u.) based on lines drawn on the fluorescence images on the left in (b). Mean±s.e.m. (d) Representative bright field (left) and fluorescence (middle) images and quantification of different germ layer markers (Sox1, Gata6 and Brachyury) 5 days after avb3 antagonist treatment (right). Single ES cells were treated with 20 mg ml À 1 of avb3 antagonist for 5 days in À LIF medium. Note that the endoderm layer was located at the outer periphery of the colony. Mean±s.e.m. (e) Representative bright-field (left) and fluorescence (middle) images in ­LIF condition 5 days after anti-E-cadherin antibody (2 mg ml À 1 final concentration) treatment to block E-cadherin­E-cadherin adhesion. Germ layer organization was completely blocked. Quantification of different germ layer markers is shown on the right. Mean±s.e.m.; similar biological replicates of immunofluorescence staining were obtained from at least three independent experiments for each subfigure. W4 cells were used in all figures except for a and the mesoderm layer in b where OGTR1 cells were used. Scale bars, 50 mm.
+
+stiffness of a whole-mouse ES cell colony isolated from the 3D fibrin gel matrix. Colonies cultured with LIF were stiffer than those without LIF (Fig. 6c), and colonies cultured with LIF had F-actins more concentrated at the periphery compared with those without LIF (Fig. 6a). In contrast, opposite to the whole colony's mechanical property, single cells isolated from the colony were stiffer and more spread in the absence of LIF than those with LIF (Fig. 6b,d). This suggests that differentiation due to the absence of LIF stiffens single ES cells but not the whole colony, which was prevented from stiffening by the soft matrix. The stiffness of differentiated embryoid colonies at day 5 was similar to the values (B0.4 kPa) of embryonic discs26. Reduction of endogenous tension either with the addition of a Rho-associated kinase (ROCK) inhibitor or after addition of myosin-II inhibitor blebbistatin completely disrupted the proper organization of the germ layers, generating elongated cell protrusions with misaligned germ layers (Fig. 6e; Supplementary Fig. 10). siRNA knockdown of Myosin II-A and Myosin II-B also disrupted proper organization of germ layers (Supplementary Fig. 11). In addition, downregulation of cellular tension with Blebistatin or with Y-27632 in þ LIF conditions for 5 days resulted in loss of spherical morphology in the colonies but no differentiation or Brachyury-positive cells were observed (Supplementary Fig. 12),
+
+suggesting that tension downregulation can influence colony morphology independent of differentiation by LIF. In contrast, when a constitutively active mutant of RhoA (RhoA-V14)27 was transfected into the cells in þ LIF condition, colonies remained spherical and pluripotent, whereas RhoA-V14-transfected colonies in the ­LIF condition started to spread and positioned Brachyury-positive cells at the outer layer (Supplementary Fig. 12). Taken together, these data suggest that the cytoskeletal tension in the actin filaments in the growing mouse embryoid colony may be important in the appropriate positioning and organization of the germ layers, consistent with published reports in lower animals28­31. Correct positioning of three germ layers. At the very early developmental stage of mouse preimplantation embryos, the ballshaped embryo grows and develops as it moves towards the uterus32,33. The cells of the epiblast begin to differentiate into three germ layers around embryonic-day 6 after its implantation into the uterine wall34, which consists mainly of type-1 collagen (collagen-1)35. We cultured single mouse ES cells in soft 3D fibrin gels in þ LIF condition; then, we withdrew LIF after 11 h. At day 2.5 (after 60 h of culture in the 3D fibrin gel), the fibrin gels were
+3
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+a
+Fold enrichment (mesoderm cells versus ectoderm cells) 150 100 50 9 7
+Alp ha 1
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+a
+% Of cells stained
+
+80 60 Gata6 40 20 0 Sox1
+
+5
+Fg
+
+Be ta 1
+
+1 0.75 0.50 0.25 0.00
+
+Ot
+
+x2
+
+3
+
+E-c ad
+
+So x1 Pa x6
+
+Ha nd1 Bra chy ury Tw ist2 Fox A2
+
+Alp ha 2 Alp ha 5 Alp ha V
+
+Be ta 3
+
+Wn t3
+
+M ix l1
+
+Endoderm
+
+Ectoderm
+
+b
+Fold enrichment (endoderm cells versus ectoderm cells)
+
+3.5 3.0 2.5 2.0
+Alp ha 1 Alp ha 2 Be ta 1
+So x1 Pa x6 x2 f5
+
+1.5 1.0 0.75 0.50 0.25 0.00
+
+ta6 So x17
+
+Ga
+
+Ga
+
+Alp
+
+Alp
+
+Be
+
+Figure 3 | Ectoderm and endoderm cells induced by exogenous chemical factors. (a) ESCs were differentiated with ActivinA (100 ng ml À 1) or with retinoic acid (5 mM). Cells were then immunofluorescently labelled and the percentage of the stained cells was quantified using a haemocytometer. About 83% of the cells treated with ActivinA were Gata6­labelled, whereas B90% of the cells treated with retinoic acid were Sox1-labelled; n ¼ 6 separate counts for each marker. (b) Representative phase contrast (left column), Gata6 (middle column) and Sox1 immunofluorescence images (right column) of endoderm (top row) and ectoderm (bottom row) cells. ESCs that were differentiated by ActivinA or by retinoic acid were each stained for Sox1 and Gata6. ActivinA-treated cells are stained only by Gata6 (endoderm marker), whereas retinoic acid-treated cells are stained only by Sox1 (ectoderm marker). Real-time qRT­PCRs of these chemically differentiated cells are shown in Fig. 4. Scale bars, 50 mm.
+
+5
+
+ha
+
+ta 3
+
+ta4
+
+Wn
+
+ha
+
+t3
+
+V
+
+E-c ad
+
+Fg
+
+Ot
+
+Figure 2 | Real-time qRT­PCR of different germ layers. Differentiated colonies from soft fibrin gels were extracted and cells of each germ layer were isolated using FACS sorting. (a) Mesoderm cells are compared with ectoderm cells. Expression of mesoderm markers: Hand1, Brachyury, Twist2, FoxA2 and Mixl1 were higher (Po0.007, Po0.002, Po0.003, Po0.026 and Po0.012). Ectoderm markers such as Fgf5, Otx2, Sox1 and Pax6 were significantly lower (Po0.041, Po0.001, Po0.003 and Po0.012). Mesoderm cells express high levels of a5, av, and b3 integrin (Po0.002, Po0.008 and Po0.039). No significant difference was observed for a2 integrin (P ¼ 0.31) and Wnt3 expression (P ¼ 0.62). Mean±s.e.m. n ¼ 3 independent experiments. (b) Endoderm cells are compared with ectoderm cells. Endoderm markers such as Gata4, Gata6 and Sox17 were highly expressed (Po0.010, Po0.031 and Po0.003), whereas ectoderm markers Fgf5, Otx2, Sox1 and Pax6 were significantly lower (Po0.001, Po0.001, Po0.044 and Po0.001). Endoderm cells express high levels of a5 integrin (Po0.008). No significant difference was observed for av integrin (P ¼ 0.21), b3 integrin (P ¼ 0.38) and Wnt3 expression (P ¼ 0.19). These data suggest that ectoderm cells not only express high levels of a1b1 integrin but also high levels of E-cadherin. Mean±s.e.m.; n ¼ 3 independent experiments.
+
+gently dissolved. The intact individual colonies were isolated by mild centrifugation (56 g for 2 min) and transferred to the top of collagen-1-coated polyacrylamide (PA) gels of 1 kPa in ­LIF conditions to mimic the signals during the implantation process (Fig. 7a). Remarkably, DsRed-positive cells formed a middle ring at day 5, two and a half days after adhesion on 2D collagen-1coated substrates in ­LIF conditions (Figs 7b and 8; Supplementary Movie 2). Colonies transferred to 2D substrates of higher stiffness (3.5 or 8 kPa) gave rise to (non-spherical) spread colonies without a proper DsRed-positive layer (Fig. 7b). No in vivo data are available on the local stiffness of the endometrial epithelium when the embryo implants. However, in vitro data suggest that epithelial cells in general have a stiffness of B1­5 kPa (ref. 36). Thus, our finding that a DsRed-positive layer formed in the middle of the colony after the colony was seeded on a 1-kPa substrate is consistent with the known stiffness range. Remarkably, immunostaining of colonies on 1-kPa gels
+4
+
+showed a unique spherical morphology with self-organized germ layers reminiscent of generalized chordate gastrulae (ectoderm on the outside and endoderm at the inner most centre of the colony, with mesoderm in the middle) (Figs 7c,d, 8 and 9; Supplementary Movies 1­3). In sharp contrast, colonies that were kept in the 3D fibrin matrix throughout the 5-day period (Fig. 1b,c) exhibited flipped mesoderm and ectoderm layers at day 5: endoderm at the inside, ectoderm in the middle and mesoderm at the outside. Interaction of the colony with collagen-1 (a1/a2b1 integrins engage collagen-1; ref. 37) was found to be necessary for the formation of the proper germ layer organization as the transfer from 3D matrices to 2D surfaces with adhesion on other extracellular matrix proteins such as fibronectin (which engage a5b1 and avb3 integrins38) did not yield distinct organization of all three germ layers (Supplementary Fig. 13). Consistent with the notion that normal morphogenesis of the inner cell mass is dependent on b1 integrin39,40, but not on b3 integrin41,42, our results indicate that only a1b1 and/or a2b1 integrins give rise to proper germ layer organization in our in vitro system. Reduction in colony attachment to collagen-1 resulted in no germ layer organization when the colonies were incubated in a medium containing anti-collagen 1 antibodies during transfer (Supplementary Fig. 14), supporting the notion that the colony attachment to collagen-1 is specific. Studies have shown that the adherence of embryos with intact trophoblasts is significantly lower on laminin or fibronectin surface as compared with on collagen-1 substrates43. Furthermore, collagen-1 and b1 integrin are highly expressed in EBs under hanging drop cultures44. Although no distinct organization of three germ layers was observed when colonies were transferred onto fibronectin-coated substrates, segregation of different cell types was observed (Supplementary Fig. 13), consistent with the notion that fibronectin is necessary for the directed migration of mesodermal cells45. Taken together, these results indicate that local matrix dimensionality and colony­matrix interaction are critical to the proper organization of three germ layers, extending previous findings in lower animals that cell­cell tension plays important roles15. At present, the efficiency of generating each germ layer varied with this method. Proper organization of endoderm and mesoderm layers was simultaneously generated at relatively high efficiency (B50%, that is, B50 out of every 100
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+Ectoderm Endoderm
+
+100
+
+b
+
+Phase
+
+Gata6
+
+Sox1
+
+f5
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+ARTICLE
+of embryoid colony is due to differential adhesion of cells from different germ layers since in the 3D fibrin gels the outer layer cells engage avb3 integrin, whereas on the 2D gels the outer layer cells engage a1b1 integrins. Immunofluorescence staining of b1 integrin (Supplementary Fig. 15) and qRT­PCR results (Figs 2 and 4) show that ectoderm cells expressed higher levels of a1b1 integrin that preferentially binds to collagen-1 than the other two germ layer cells. These results suggest that differential integrin expression and engagement influence germ layer organization. While colony­matrix interaction plays a role in germ layer positioning, stimulation of signalling pathways by soluble factors is well known to be important in differentiation and development of embryos. Wnt signalling components have been reported to be essential for the establishment of primitive streak and mesoderm formation46,47. In our EBs, expression of Wnt3a and Bmp4 were detected a day before Brachyury appearance and both were found to form similar polar ends before dispersing throughout the whole colony (Supplementary Fig. 16). Since Wnt signalling mediates the anterior­posterior polarity and axis formation in EBs14, we explored the role of Wnt, Bmp4 and nodal in the organization of different germ layers. Without exogenous signals, cells cultured in 3D soft fibrin gels for 5 days formed mesoderm cells at the outer layer. However, low concentrations of Wnt3a, Bmp4 or ActivinA (which activates the nodal pathway48) all resulted in formation of middle layer Brachyury-positive mesoderm cells (Supplementary Fig. 17). Supplementing the medium with Dkk1 (a Wnt antagonist) caused the mesoderm cells to form the inner layer in the case of Wnt3a and ActivinA, but not Bmp4 (Supplementary Fig. 17). Interestingly, Bmp antagonist Noggin along with the activation of Wnt, Bmp and nodal caused the cells with Brachyury expression to form the outer layer. Suppressing Bmp alone without the activation of other signals caused the cells to undergo apoptosis (Supplementary Fig. 17). Together with the time course results of Brachyury expression (Fig. 8), we conclude that Wnt signalling is essential in early formation of anterior­posterior polarity, and continuous activation or inhibition of Wnt, Bmp4 or nodal signals for 5 days gives rise to a shift in germ layer position (Supplementary Fig. 17). The organization of germ layers observed at day 5 in this study is of a relatively late-stage in embryogenesis, after the establishment of primitive streak and anterior­posterior polarity14. Although we do not know at the present time the underlying mechanism for controlling the organization of the germ layers when the Wnt signalling pathway is modulated, together with our findings that colony tension impacts germ layer organization, differentiation-related processes and/or molecules in germ layer organization such as Wnt3, Bmp4 and nodal as well as tension may play crucial roles in the formation of organized germ layers. When ES cells were cultured in soft 3D fibrin gels under ­LIF conditions throughout the first day of the culture (day 0) and transferred to 2D collagen-1-coated PA substrates at day 2.5, they did not maintain their spherical shape. Rather, the colony spread out and formed a monolayer of cells within a day of adhesion to the 2D substrate (Supplementary Fig. 18). These results suggest that the timing of withdrawing the soluble self-renewal factor LIF as well as appropriate substrate stiffness, matrix dimensionality and colony­matrix mechanical tension are critical to the generation of self-organized germ layers in this in vitro embryo model. Discussion Taken together, our results show that the development of the OGTR1 mouse ES cell line and the culture of ESCs in soft 3D fibrin gels provide a useful platform for further studies on the
+5
+
+a
+Fold enrichment (mesoderm cells versus ectoderm cells)
+
+55 50 45 5 4
+ta 1
+
+3 2 1 0.75 0.50 0.25 0.00
+Fg f5 Otx 2 So x1 Pa x6
+
+1
+
+ha
+
+Ha nd 1 chy ur y Tw ist2 Fo xA 2 Mix l1
+
+ha Alp 2 ha 5 Alp ha V
+
+b
+Fold enrichment (endoderm cells versus ectoderm cells)
+
+60 40 4 3
+1 ta 1 Otx 2 So x1 Fg f5 E-c 3 ta Wn t3 Alp
+
+Bra
+
+Alp
+
+Be
+
+ta 3 Wn t3 ad
+
+2 1 0.75 0.50 0.25 0.00
+
+ha
+
+Ga ta6 So x17
+
+ta4
+
+2
+
+Pa x6
+
+5
+
+ha
+
+ha
+
+Ga
+
+ha
+
+V
+
+Be
+
+Alp
+
+Alp
+
+Figure 4 | Real-time qRT­PCR of different germ layers induced by exogenous chemical factors. Chemically differentiated ectoderm and endoderm cells were analysed to verify whether they are bona fide. (a) Mesoderm cells are compared with ectoderm cells. Expression of mesoderm markers: Hand1, Brachyury, Twist2, FoxA2 and Mixl1 were higher (Po0.04, Po0.004, Po0.006, Po0.007 and Po0.02). Ectoderm markers such as Fgf5, Otx2, Sox1 and Pax6 were significantly lower (Po0.006, Po0.03, Po0.001 and Po0.001). Mesoderm cells express high levels of a5, av and b3 integrin (Po0.015, Po0.008 and Po0.041). No significant difference was observed for a2 integrin (P ¼ 0.61) and Wnt3 expression (P ¼ 0.35). Mean±s.e.m. n ¼ 3 independent experiments. (b) Endoderm cells are compared with ectoderm cells. Endoderm markers such as Gata4, Gata6 and Sox17 were highly expressed (Po0.003, Po0.004 and Po0.01), whereas ectoderm markers Fgf5, Otx2 and Sox1 were significantly lower (Po0.001, Po0.001 and Po0.001). Endoderm cells express high levels of a5 and av integrin (Po0.047, Po0.002). No significant difference was observed for Pax6 (P ¼ 0.38), a2 integrin (P ¼ 0.21), b3 integrin (P ¼ 0.1) and Wnt3 expression (P ¼ 0.48). These verify that ectoderm cells express high levels of E-cadherin and a1b1 collagen-1 binding integrin. Mean±s.e.m.; n ¼ 3 independent experiments.
+
+transferred colonies had both layers in the correct position) and B5% of the colonies (B5 out of every 100 transferred colonies) were found to be Sox1-positive cells that formed a ring-like layer at the periphery. Therefore, the success rate of generating correct positioning for all three germ layers was B2.5%. Further refinement of this approach is needed to increase the efficiency of proper ectoderm generation. Time course of the Brachyury gene expression shows that Brachyury-positive cells localize at one end of the embryoid colony before sorting into a middle mesodermal layer (Fig. 8). When these embryoid colonies on 2D collagen-1 substrates were then encapsulated in 3D fibrin gels, the Brachyury-positive mesoderm cells distributed outwards to the outer layer (Fig. 10b). Conversely, late-stage embryoid colonies that formed the outer mesoderm layer in the 3D fibrin gels distributed toward the middle layer when they were transferred onto 2D collagen-1 substrates (Fig. 10a), suggesting that self-organization
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+Alp
+
+Be
+
+E-c
+
+Alp
+
+Be
+
+ad
+
+ARTICLE
+a
+90 Pa 420 Pa
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+1,050 Pa
+
+b
+25 20 15 10 5 0 0 Projected area (×103 m2)
++LIF 90 Pa +LIF 420 Pa +LIF 1,050 Pa
+
+­LIF
+
++LIF
+
+c
+1.0 0.8 0.6 0.4 0.2 0.0 1 2 3 4 5 Culture time (day) 0
++LIF 90 Pa +LIF 420 Pa +LIF 1,050 Pa
+
+d
+2.0 Normalized Oct4 intensity 1.6 1.2 0.8 0.4 0.0 0
+­LIF 90 Pa ­LIF 420 Pa ­LIF 1,050 Pa
+
+Circularity index
+
+1 2 3 4 5 Culture time (day)
+
+1 2 3 4 5 Culture time (day)
+­LIF 90 Pa ­LIF 420 Pa ­LIF 1,050 Pa
+
+e
+Projected area (×103 m2)
+
+6 5 4 3 2 1 0 0
+
+f
+Circularity index
+­LIF 90 Pa ­LIF 420 Pa ­LIF 1,050 Pa
+
+g
+1.0 0.6 0.4 0.2 0.0 0
+­LIF 90 Pa ­LIF 420 Pa ­LIF 1,050 Pa
+
+1 2 3 4 5 Culture time (day)
+
+1 2 3 4 5 Culture time (day)
+
+Normalized T intensity
+
+0.8
+
+3.2 2.8 2.4 2.0 1.6 1.2 0.8 0
+
+1 2 3 4 5 Culture time (day)
+
+Figure 5 | Matrix softness influences ES cell growth and differentiation. (a) Bright-field images of mESC colonies after 5 days of culture (grown from a single ESC) in 3D fibrin gels of different stiffness. Insets are magnified colony peripheries showing the surface roughness. Scale bar, 50 mm. (b) Summarized results of colony sizes in the presence of LIF ( þ LIF). (c) Circularity index in þ LIF conditions. The circularity index is a measure of the roundedness of a colony. (d) Normalized EGFP intensity as a function of culture time in the absence of LIF (­LIF). (e) Projected areas as a function of culture time. (f) Circularity index in ­LIF conditions. (g) Normalized DsRed intensity in ­LIF conditions. Mean±s.e.m.; n ¼ 15 colonies for each condition in b­g. Data pooled from 43 independent experiments. OGTR1 cells were used to obtain the results of all figures.
+
+formation of organized germ layers. The present study demonstrates that a spherical colony with proper germ layer arrangement of endoderm, mesoderm and ectoderm from the inner layer to the outer layer can be generated from a single mammalian ESC by controlling colony tension and anchorage-dependent cell­ matrix interaction. A report of an in vitro assay reveals that the frequency of development of early mouse embryos on 1-kPa collagen-1 gels is greater than that on rigid substrates of 1 GPa (ref. 49), suggesting that our assay using collagen-1coated 1-kPa gels might be useful and relevant. This method could provide an in vitro model for exploring mechanisms of tissue morphogenesis during mammalian germ layer formation. The outer and the inner layers of gastrulating mouse embryos at E6.5­8.0 differentiate into the visceral endoderm and the embryonic ectoderm, respectively50. With regard to the spatial organization of three germ layers, the embryoid colony is similar to the mouse embryo at E9.0 after a process of rotation that results in the endoderm locating at the inner layer and the ectoderm locating at the outer layer. However, the cells in the E9.0 mouse embryo are more specialized than those of the embryoid colony; mouse and human embryos at the gastrulation stage have the shapes of cylinders and plates, respectively, different from the spherical shape of the embryoid colony observed in the current study. Therefore, it will be interesting to
+6
+
+see what cell types and shape the self-organized embryoid colony in long-term cultures (45 days) will develop into. A recent report demonstrates that the engagement of b1-integrins with the extracellular matrix proteins enables self-organization of mouse ESCs to form polarized rosettes that initiate luminogenesis similar to days 2.5­5.0 embryos in vivo8. Consistently, our results demonstrate that interactions of the embryoid colony with collagen-1 are necessary for the formation of proper germ layer organization. In addition to the recent findings in the culture conditions that stimulate implantation and allow ES cells to develop into epiblast-like structures8, we demonstrate that the culture of ES cells can be taken further to establish distinct lineages using specific protocols. Our current approach shows the ability to generate self-organization of three germ layers in vitro, a stage later than the polarized rosettes. However, the detailed events and underlying mechanisms leading up to the organized germ layer patterns remain to be elucidated. Our finding that specific cell­matrix interaction and matrix dimensionality are crucial in germ layer positioning is further strengthened by the result that the mesoderm layer distribution is inverted (from the middle layer to the outer layer) when the colony is transferred from a 2D collagen-1 surface into a 3D fibrin gel (Fig. 10). Our observation that blocking matrix (fibrin)­integrin interaction and thus potentially myosin-II-dependent tensile forces across the
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+ARTICLE
+b
+Magnified Bright-field Single ES cell 2D rigid dish 3D Fibrin +LIF 3D Fibrin ­LIF
+
+a
+Bright-field +LIF
+
+ES colony Actin
+
+c
+0.8 Colony stiffness (kPa) 0.6 0.4 0.2 0.0
+F 3D n+ ibri LIF F 3D n­ ibri LIF
+
+d
+*
+Cell stiffness (kPa)
+
+Oct4 3.0 2.5 2.0 1.5 1.0 0.5 0.0
++ ish id d LIF 3 ibri DF n+ LIF 3 ib DF rin ­LI F
+
+­LIF
+
+*
+
+*
+
+2D
+
+Rig
+
++ Y-27632
+
+e
+
+Endoderm Gata6
+
+Brachyury 250 200 Gata6 Sox1 Intensity (a.u.)
+
+Ectoderm Sox1
+
+150 100 50 0 0.0 0.4 0.2 0.6 0.8 Distance from center (a.u.) 1.0
+
+Mesoderm Brachyury
+
+Figure 6 | Colony tension impacts germ layer organization. (a) Left: bright-field images of the colonies; middle: F-actin staining of the colony in the left; right: magnified areas of the boxes in the middle, showing much more F-actin in þ LIF condition than in ­LIF condition. (b) Representative bright-field (top) and fluorescence (bottom) images of individual cells (isolated from colonies maintained under conditions indicated on the top) on 2D rigid substrates. (c) Colony stiffness was measured after 5 days of culture for each isolated intact colony. Mean± À s.e.m.; n ¼ 84 for þ LIF; n ¼ 80 for ­LIF. (d) Individual cell stiffness. Individual cells were re-plated on 2D rigid substrate for 6 h before stiffness measurements were carried out. Mean±s.e.m.; n ¼ 28 for 2D rigid dish þ LIF; n ¼ 53 for 3D fibrin þ LIF; n ¼ 27 for 3D fibrin ­LIF. (e) Representative bright field (left) and fluorescence (middle) images of the colonies treated with ROCK inhibitor Y27632 (25 mM) for 5 days (note that germ layers became disorganized and colonies exhibited extensive dendritic morphology); quantification of different germ layer markers is shown on the right. Mean±s.e.m. Similar results of immunofluorescence staining were obtained from at least three independent experiments for each subfigure. Scale bar, 50 mm. (*, Po0.023). OGTR1 cells were used in all subfigures except in a and e where W4 cells were used.
+
+integrins results in the endoderm layer moving from the inner layer to the outer layer (Fig. 1c,d) suggests that the appropriate positioning of the endoderm layer depends on the tensile forces of the cells. On the other hand, the mesoderm layer locates from the outer layer (Fig. 1c) to the middle layer (Fig. 7c,d) when the embryoid colony is transferred from a 3D matrix substrate to a 2D matrix substrate, and the ectoderm layer moves in the opposite direction (compare Fig. 1c with Fig. 7d), suggesting that asymmetric tensile force distribution and possibly magnitudes and directions of compressive forces may play critical roles in
+
+mesoderm/ectoderm layer organization, in addition to specific integrin subtypes (that is, collagen-1 versus fibronectin; see Fig. 7c and Supplementary Fig. 13). A recently developed novel oildroplet force transducer system51 might be used to elucidate these questions and to quantify magnitudes, direction and distribution of forces surrounding growing embryoid colonies, as increasing in vivo evidence suggests that contractile acto-myosin networks drive cell shape changes during morphogenesis52. The positionspecific gene expression patterns from the cells isolated from the embryoid colonies in the 3D fibrin gels are in general consistent
+7
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+a
++LIF Day 0 ­LIF Day 2.5 ­LIF Transfer Col-1 Single cell
+1 kPa
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+b
+
+Bright-field
+
+Oct4
+
+Brachyury
+
+Merge
+
+Colony
+8 kPa
+
+90-Pa Fibrin gel
+
+1 kPa PA gel
+
+c
+
+Endoderm
+Gata6
+
+d
+250 200 Endo Meso Ecto
+
+Mesoderm
+Brachyury
+
+Intensity (a.u.)
+
+150 100 50 0 0.0 0.2 0.4 0.6 0.8 1.0 Distance from center (a.u.)
+
+3.5 kPa
+
+Gata6 Brachyury Sox1
+
+Ectoderm
+Sox1
+
+Figure 7 | Generation of three germ layer organization. (a) Schematic of the experimental protocol. A single OGTR1 ESC was grown in 3D 90-Pa fibrin gel in the presence of LIF ( þ LIF) for the first 11 h before switching to ­LIF condition. At day 2.5, the individual colony is transferred to the top of collagen-1 (Col1)-coated polyacrylamide gel (PA) of 1-kPa stiffness in the absence of LIF ( À LIF). (b) Bright-field (left column) and fluorescence (second, third and right columns) images of ESC colonies maintained under conditions indicated on the left show positioning of a mesoderm layer (a DsRed-Brachyury expressing, donut-like ring) in the middle of the colony on top of Col-1-coated PA gels. Note that only on 1-kPa PA gels, the colony generated a mesodermal layer in the middle of the colony; spread colonies with randomly positioned mesodermal cells were found on stiffer substrates. EGFP is still expressed in the colony, suggesting that at this stage the colony is in transition between pluripotency and multipotency. (c) Representative bright-field (left) and fluorescence (right) images of colonies at day 5, after being transferred from 3D fibrin to 2D collagen-1 PA as described in (a). Endo- and ectodermal cells were stained by immunofluorescence microscopy using anti-Gata6 and Sox1 antibodies, respectively, whereas DsRed fluorescence indicated the differentiation of mesodermal cells (Brachyury). Lines were used to acquire the fluorescence intensity data shown in (d). (d) Quantification of germ cell organization as described in Fig. 1c. Self-organized germ layers were properly replicated with endoderm at the core, mesoderm in the middle and ectoderm at the periphery. Mean±s.e.m.; at least three independent experiments showing similar results. Scale bar, 50 mm. The efficiency of Gata6-positive (endoderm) cells exclusively in the inner layer and the efficiency of Brachyury-positive (mesoderm) cells exclusively in the middle layer of the embryoid colony are B50% (50 out of every 100 transferred colonies; 4500 colonies quantified). The efficiency of Sox1-positive (ectoderm) cells exclusively in the outer layer of the embryoid colony is B5% (5 out of every 100 colonies; 4300 colonies were quantified). The efficiency of generating all three germ layers in the correct positioning is 2.6±0.28% (mean±s.e.m.; from nine separate experiments). In contrast, no proper positioning of any type of germ layer cells was found (0 out of 1,000 colonies) in the embryoid colonies when they were transferred to fibronectin-coated 2D PA substrates of 1 kPa (Supplementary Fig. 13). OGTR1 cells were used in all subfigures except the staining of endoderm and ectoderm in (c).
+
+0h Brachyury Bright-field
+
+12 h
+
+24 h
+
+36 h
+
+48 h
+
+60 h
+
+72 h
+
+84 h
+
+96 h
+
+108 h
+
+120 h
+
+3D Fibrin + LIF ­LIF
+
+2D Collagen-1
+
+Figure 8 | Time course of formation of Brachyury-positive mesodermal middle layer. As described in Fig. 7a, A single OGTR1 ESC was grown in 3D 90-Pa fibrin gel in þ LIF condition for the first 11 h before switching to ­LIF condition. After 60 h, the individual colony is transferred to the top of collagen-1-coated polyacrylamide gel in the absence of LIF. The Brachyury-positive cells were observed to localize or segregate at one end of the colony before sorting into a distinct middle mesodermal layer after 84 h. About 50% of the cells (out of 50 single ESCs) from 43 separate experiments that were tracked from time zero to 120 h showed similar results. Scale bar, 50 mm.
+
+8
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+ARTICLE
+Mesoderm Merge
+
+Bright-field
+
+Ectoderm
+
+Figure 9 | Confocal images of ectoderm and mesoderm germ layers within the same colony. Representative images of two different colonies with bright field (left column), a distinct Pax6 ectoderm immunofluorescence at the outer layer (2nd column), a distinct Brachyury mesoderm immunofluorescence at the middle layer (3nd column) and merge fluorescence images (right column). Scale bar, 50 mm. From these staining data and those staining data of the colonies in the movies, assuming individual cells from each germ layer have the same volume, we estimate that endoderm, mesoderm and ectoderm layer cells are B5%, 60% and 35% of the total cells, respectively. These results are representatives of 43 experimental replicates.
+
+a 3D Fibrin to 2D collagen-1
+Days 4.5 Bright-field Day 5 Day 5.5 Day 6
+
+b 2D collagen-1 to 3D fibrin
+Days 4.5 Bright-field Day 5 Day 5.5 Day 6
+
+Figure 10 | Self-organization of the embryoid colony is due to differential adhesion of germ layer cells. (a) A single ESC was cultured in 3D soft fibrin gels in the absence of LIF. When Brachyury-positive cells were distinctly observed at the outer layer at 4.5 days, the gel was dissolved and colonies transferred to 2D collagen-1-coated PA gel. The Brachyury-positive outer layer was observed to move inwards to the middle layer by day 6. (b) As described in Fig. 7a, ESCs were first cultured in 3D soft fibrin gels before being transferred to 2D collagen-1-coated PA gel after 60 h. At day 4.5 when Brachyury-positive cells were distinctly expressed at the middle layer, the colonies were encapsulated with 3D soft fibrin gel. The Brachyury-positive middle layer was observed to move outwards to the outer layer by day 6. These results suggest that the colony self-organizes on the basis of preferential binding of mesodermal cells to fibrin and ectodermal cells to collagen-1. Scale bar, 50 mm. These results are representative of 43 experimental replicates.
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+Brachyury
+
+Brachyury
+
+9
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+with and similar to those chemically induced (differentiation) gene patterns, but there are a few quantitative differences in a few genes (for example, Hand1, Brachyury, Twist2, Gata4, Gata6 and Sox17). It will be interesting to determine what accounts for these quantitative differences. It has been shown that exogenous biophysical signals can be transmitted through the cytoskeleton and into the nucleus to dissociate protein­protein complexes in the Cajal bodies53; however, at present the molecular mechanisms of how matrix rigidity and dimensionality influence the differentiation of ESCs and organization patterns of germ layers remain elusive. Published reports show that the Yes-associated protein (YAP) and TAZ are important in the matrix-rigiditydependent differentiation of mesenchymal stem cells54 and motor neuron differentiation of human pluripotent stem cells55. It will be interesting to see whether YAP/TAZ and/or other unknown factors play a role in early embryogenesis and germ layer organization. Methods
+Creation of OGTR1 mESC cell line. Unless otherwise noted, the restriction enzymes and DNA-modifying enzymes used in this study were obtained from New England Biolabs (Ipswich, MA, USA). pGTIV2 (ref. 56) was digested with ClaI and NsiI to remove an intervening sequence that contains one PvuII site, and ligated with a ClaI-NsiI linker (Invitrogen, Carlsbad, CA). This modified pGTIV2 was further digested with NotI and PvuII to obtain a cassette that contains Gtx motifs57, Venus58 and polyadenylation signals (referred to as IVpA). The IVpA cassette was ligated into pBluescriptIIKS( À ) sequentially digested with SalI and NotI. Before NotI digestion, the cohesive ends generated by SalI digestion were blunt-ended with the Klenow fragment (Invitrogen). The resulting vector was named pBS_IVpA. After a unique EcoRI site was introduced at an XbaI site in pBS_IVpA by a linker (Invitrogen), Venus in pBS_IVpA was removed by digestion with NcoI and EcoRI, and replaced with modified Venus that lacks a stop codon (TAA). This modification of Venus was carried out by PCR with Phusion DNA polymerase and the following primers: forward 50 -ATGATATCGCCACCATGGTGAGCA-30 ; reverse 50 -TCGAATCTGTACAGCTCGTCC-30 (ref. 59). The resulting pBS_IVpA with modified Venus was digested with EcoRI and XbaI to clone the puromycinresistant gene (Puror) with the self-cleaving peptide T2A60 at the 50 end of Puror, which was obtained from pCAG_T2APuro59. The resulting vector, namely pBS_IV2AP, was digested with NotI and ClaI and subsequently ligated with selfannealed oligonucleotides that encode restriction enzyme sites of NotI, EcoRV, PmeI, AflII, PacI, NheI and HpaI (sense: 50 -GGCCGCGATATCGTTTAAAC TTAAGTTAATTAAGCTAGCGTTAAC-30 ; antisense 50 -CGGTTAACGCTA GCTTAATTAACTTAAGTTTAAACGATATCGC-30 ; Integrated DNA Technologies (IDT), Coralville, IA, USA). This linker contains a NotI site at the 50 end and a compatible but mutated ClaI site at the 30 end. The resulting vector was designated pBS_MCSIV2AP. Then, Venus in pBS_MCSIV2AP was removed by digestion with NcoI and EcoRI and replaced with DsRedT3 (ref. 61) obtained from pCAG_DsRedT2AP (refs 59,62). The resulting vector was named pBS_MCSIR2AP. An XhoI site was introduced at the NotI site in pBS_MCSIR2AP by a linker (IDT). The resulting vector was designated pBS_MCSIR2APx. To build a drug resistance cassette, the PGK promoter and the blasticidinresistant gene (Bsdr) were obtained from pGTLox4 (kindly provided by Dr William L. Stanford, University of Ottawa, Ottawa, Canada) that was digested with EcoRI and ScaI, and subcloned into EcoRI and SmaI-digested pBluescriptIIKS( À ) that has polyadenylation signals cloned at the XbaI site. The resulting vector, namely pPGKBsrpA, was digested with XhoI and ligated with an XhoI-digested cassette obtained from pBS_MCSIR2APx that harbours multiple cloning sites, Gtx motifs, DsRedT3 linked with Puror via T2A and polyadenylation signals. The final vector, referred to as pMCSIRPPB, has unique AflII, ApaI, HpaI, KpnI and NheI sites to clone a gene-specific promoter. The gene regulatory sequence of the T gene was amplified by PCR using a BAC (RP23-444I17, BACPAC Resources Center, Children's Hospital Oakland Research Institute, CA, USA) as a template and the following primers: EcoRV-pT-F, 50 -AAG ATATCTCCCTCTCAGGTGCGCGCAG-30 ; NheI-pT-R, 50 -TTGCTAGCCTCC CGCCACCCTCTC-30 (IDT). These primers were designed to amplify a genomic region between À 529 and þ 152 relative to the transcriptional initiation site, which regulates T expression in the streak-derived mesoderm but not in the axial mesoderm63. The PCR product digested with EcoRV and NheI was cloned into pMCSIRPPB sequentially digested with KpnI and NheI. Before NheI digestion, cohesive ends of pMCSIRPPB generated by KpnI digestion were blunt-ended by T4 DNA polymerase. Cloned DNA sequence identity was verified by sequencing. The purified resulting vector, namely pTIRPPB, was transfected to mouse ES cells that express EGFP under the Oct3/4 promoter (OGR1)12,59,62,64,65 by FuGene HD (Roche Applied Science, Indianapolis, IN, USA) essentially as previously described59. Blasticidin-resistant clones, namely OGTR1, were isolated and
+10
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+expanded for analysis. Stochastic expression of DsRedT3 was observed in OGTR1 cultured as undifferentiated11,66. mESC culture. A wild-type mESC line (W4, 129S6/SvEvTac) was cultured and used as described62. These cells were further used to grow single individual cells into colonies and immunostained for endoderm, mesoderm or ectoderm germ layers. In addition, the OGTR1 mESC line described above was used in this study. These undifferentiated mESCs were cultured and maintained in the medium consisting of high glucose-Dulbecco's Modified Eagles Medium (Invitrogen) supplemented with 15% ES-qualified fetal bovine serum (Invitrogen), 2 mM L-glutamine (Invitrogen), 1 mM sodium pyruvate, 0.1 mM nonessential amino acids (Invitrogen), 1% penicillin­streptomycin, 0.1 mM beta-mercaptoethanol (Sigma) and 1,000 U ml À 1 recombinant LIF (ESGRO; Millipore) at 37°C in 5% CO2. Cells were passaged every 2­3 days at a ratio of 1:6 using TrypLE (Invitrogen). Culture medium was changed daily. Recombinant Wnt3a, Bmp4, ActivinA, Dkk1 and Noggin were obtained from R&D Systems. Cell and colony stiffness measurement. Cell and colony stiffness were measured using magnetic twisting cytometry9,62,67. A ferromagnetic bead of B4 mm in diameter is coated with Arg-Gly-Asp (RGD) peptides and bound to the apical surface of cells. Magnetic twisting cytometry allows us to control the loading frequency and the duration as well as the magnitude of force applied to the cell. The bead displacement amplitude can then be correlated to the applied mechanical force to determine the cell stiffness. Dissolving fibrin gels. The 3D fibrin gels were dissolved using a solution mixture of Collagenase (Sigma C0130) and Dispase II (Sigma D4693)68. Collagenase and Dispase II were diluted by 2 ml PBS at the final concentration of 0.08 and 0.4% (w/v), respectively. Adding 400 ml of the solution to a well (24-well plate size) containing 250 ml fibrin gel with 600 ml of existing culture medium will take 30 min to dissolve at 37 °C. The colony shape changed little before and after transfer from 3D to 2D, suggesting that the Collagenase- and Dispase II-dissolving solution did not affect the colony integrity much. After centrifuging at 500 r.p.m. (B56 g) for 2 min, the colonies were re-suspended by pipetting a few times. About 80­100 colonies were pipetted and transferred to the centre of the dish where the PA gel was. 3D fibrin gel cell culture and differentiation assay. Twenty-four-well plates were used to culture mESCs in the 3D fibrin gel. mESCs were first trypsinized using TrypLE (Invitrogen) and suspended in the complete ESC culture medium as described above. For each well, 500 ESCs were prepared in 125 ml of the medium. Cells in suspension were then placed on ice while the subsequent steps were executed. Salmon fibrinogen solid (Reagent Proteins) was dissolved in 125 ml of T7 buffer (pH 7.4, 50 mM Tris, 150 mM NaCl) to a concentration of 2 mg ml À 1. The cells in suspension were then added to the fibrinogen mixture at a ratio of 1:1, making the resulting fibrinogen concentration to 1 mg ml À 1. Five microlitres of thrombin (0.1 U ml À 1) were then added to each well of the 24-well plate. A total of 250 ml of the cell­fibrinogen mixture was added to each well and mixed with thrombin (Reagent Proteins). The plate was then incubated at 37°C for 10 min to solidify before adding 1 ml of the complete ESC culture medium. Two-dimensional fibrin gels were prepared using the same protocol as 3D fibrin gels but without premixing of cells. After the gels were made, mESCs were seeded on top of the fibrin gels. Cells were cultured in 3D or 2D fibrin gels up to 5 days. For differentiation assays, ESCs were cultured in a medium without LIF (-LIF). The avb3-blocking antagonist cRGDfV (Enzo Life Sciences) was pre-diluted in the normal culture medium to the indicated concentrations before being used for cell treatment. Apoptosis staining. Propidium iodide (PI, Sigma) was used to label apoptotic ESCs. Colonies after 5 days of culture were labelled with PI according to the manufacturer's protocol. Staining of PI indicates that none or only a few cells within the colonies are apoptotic (Supplementary Fig. 19). EB formation assay. Hanging drop cultures were prepared using 25 ml droplets, each having 600 cells to initiate EB formation69. Undifferentiated ESCs were trypsinized and allowed to form EBs in the bottom of the hanging drops made with the ES medium without LIF for 5 days. The different germ layers were detected by immunofluorescence microscopy. Immunofluorescence staining. ESCs in 3D fibrin gel culture were fixed with the fix buffer consisting of 4% formaldehyde (BioLegend) for 20 min at room temperature. Cells were then permeabilized with 0.5% Triton X-100 (BioLegend) for 2 min and treated with blocking buffer made of 2% BSA in PBS for 1 h. To examine the presence of different germ layers, an anti-Gata6 primary antibody (Santa Cruz Biotechnology) was used to label endoderm; an anti-Brachyury primary antibody (Abcam) was used to label mesoderm; and an anti-Sox1 primary antibody (Abcam) was used to label ectoderm. Detection of germ layer types was performed using appropriate Alexa-conjugated secondary antibodies (Invitrogen). Cells were incubated with all primary antibodies (diluted with 2% BSA buffer at a ratio of 1:200)
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+ARTICLE
+References
+1. Desprat, N., Supatto, W., Pouille, P., Beaurepaire, E. & Farge, E. Tissue deformation modulates twist expression to determine anterior midgut differentiation in Drosophila embryos. Dev. Cell 15, 470­477 (2008). 2. Rauzi, M., Verant, P., Lecuit, T. & Lenne, P. Nature and anisotropy of cortical forces orienting Drosophila tissue morphogenesis. Nat. Cell Biol. 10, 1401­U57 (2008). 3. Roh-Johnson, M. et al. Triggering a cell shape change by exploiting preexisting actomyosin contractions. Science 335, 1232­1235 (2012). 4. Behrndt, M. et al. Forces driving epithelial spreading in zebrafish gastrulation. Science 338, 257­260 (2012). 5. Weber, G. F., Bjerke, M. A. & DeSimone, D. W. A mechanoresponsive cadherin-keratin complex directs polarized protrusive behavior and collective cell migration. Dev. Cell 22, 104­115 (2012). 6. Pekkanen-Mattila, M. et al. Spatial and temporal expression pattern of germ layer markers during human embryonic stem cell differentiation in embryoid bodies. Histochem. Cell Biol. 133, 595­606 (2010). 7. Fuchs, C. et al. Self-organization phenomena in embryonic stem cell-derived embryoid bodies: axis formation and breaking of symmetry during cardiomyogenesis. Cells Tissues Organs 195, 377­391 (2012). 8. Bedzhov, I. & Zernicka-Goetz, M. Self-organizing properties of mouse pluripotent cells initiate morphogenesis upon implantation. Cell 156, 1032­1044 (2014). 9. Liu, J. et al. Soft fibrin gels promote selection and growth of tumorigenic cells. Nat. Mater. 11, 734­741 (2012). 10. Poh, Y. C., Chowdhury, F., Tanaka, T. S. & Wang, N. Embryonic stem cells do not stiffen on rigid substrates. Biophys. J. 99, L19­L21 (2010). 11. Niwa, H., Ogawa, K., Shimosato, D. & Adachi, K. A parallel circuit of LIF signaling pathways maintains pluripotency of mouse ES cells. Nature 460, 118­122 (2009). 12. Suzuki, A. et al. Nanog binds to Smad1 and blocks bone morphogenetic protein-induced differentiation of embryonic stem cells. Proc. Natl Acad. Sci. USA 103, 10294­10299 (2006). 13. Chowdhury, F. et al. Soft substrates promote homogeneous self-renewal of embryonic stem cells via downregulating cell-matrix tractions. PLoS ONE 5, e15655 (2010). 14. ten Berge, D. et al. Wnt signaling mediates self-organization and axis formation in embryoid bodies. Cell Stem Cell 3, 508­518 (2008). 15. Lecuit, T. & Lenne, P. Cell surface mechanics and the control of cell shape, tissue patterns and morphogenesis. Nat. Rev. Mol. Cell Biol. 8, 633­644 (2007). 16. Garcia-Castro, M. I., Vielmetter, E. & Bronner-Fraser, M. N-cadherin, a cell adhesion molecule involved in establishment of embryonic left-right asymmetry. Science 288, 1047­1051 (2000). 17. Gumbiner, B. M. Regulation of cadherin-mediated adhesion in morphogenesis. Nat. Rev. Mol. Cell Biol. 6, 622­634 (2005). 18. Ninomiya, H. et al. Cadherin-dependent differential cell adhesion in Xenopus causes cell sorting in vitro but not in the embryo. J. Cell Sci. 125, 1877­1883 (2012). 19. Dzamba, B. J., Jakab, K. R., Marsden, M., Schwartz, M. A. & DeSimone, D. W. Cadherin adhesion, tissue tension, and noncanonical Wnt signaling regulate fibronectin matrix organization. Dev. Cell 16, 421­432 (2009). 20. Larue, O., Ohsugi, M., Hirchenhain, J. & Kemler, R. E-cadherin null mutant embryos fail to form a trophectoderm epithelium. Proc. Natl Acad. Sci. USA 91, 8263­8267 (1994). 21. Riethmacher, D., Brinkmann, V. & Birchmeier, C. A Targeted mutation in the mouse E-cadherin gene results in defective preimplantation development. Proc. Natl Acad. Sci. USA 92, 855­859 (1995). 22. Conti, M. A., Even-Ram, S., Liu, C. Y., Yamada, K. M. & Adelstein, R. S. Defects in cell adhesion and the visceral endoderm following ablation of nonmuscle myosin heavy chain II-A in mice. J. Biol. Chem. 279, 41263­41266 (2004). 23. Shin, J. et al. Contractile forces sustain and polarize hematopoiesis from stem and progenitor cells. Cell Stem Cell 14, 81­93 (2014). 24. Engler, A. J., Sen, S., Sweeney, H. L. & Discher, D. E. Matrix elasticity directs stem cell lineage specification. Cell 126, 677­689 (2006). 25. Buxboim, A., Rajagopal, K., Brown, A. E. X. & Discher, D. E. How deeply cells feel: methods for thin gels. J. Phys. Condens. Matter 22, 194116 (2010). 26. Majkut, S. et al. Heart-specific stiffening in early embryos parallels matrix and myosin expression to optimize beating. Curr. Biol. 23, 2434­2439 (2013). 27. Kim, T. et al. Substrate rigidity regulates Ca2 þ oscillation via RhoA pathway in stem cells. J. Cell Physiol. 218, 285­293 (2009). 28. Schoetz, E. et al. Quantitative differences in tissue surface tension influence zebrafish germ layer positioning. HFSP J. 2, 42­56 (2008). 29. Krieg, M. et al. Tensile forces govern germ-layer organization in zebrafish. Nat. Cell Biol. 10, 429­436 (2008). 30. Arboleda-Estudillo, Y. et al. Movement directionality in collective migration of germ layer progenitors. Curr. Biol. 20, 161­169 (2010).
+11
+
+overnight at 4 °C. After being washed to remove unbound primary antibodies, cells were incubated with the secondary antibody for 4 h under dark conditions. For E-cadherin staining, permeabilized cells were incubated with a rabbit monoclonal anti-E-Cadherin antibody conjugated with Alexa-488 (Cell Signaling) for 1 h before examining under a fluorescence microscope. Negative immunofluorescence control experiments were performed by staining colonies that were cultured in þ LIF condition for 5 days for endoderm, mesoderm and ectoderm layers (Supplementary Fig. 20a). The undifferentiated colonies were first treated with primary antibodies followed by the secondary antibody. For each germ layer, it was observed that there were small negligible areas within the colony that were stained. We therefore decided to stain colonies cultured in ­LIF 3D conditions at day 5 with individual primary antibodies or individual secondary antibody (Supplementary Fig. 20b). Colonies treated with primary antibodies alone did not show any fluorescence, whereas colonies treated with secondary antibody alone had some small fluorescent spots. These suggest that there is some nonspecific staining of secondary antibody that has not been unwashed out. RNA interference. Cells were transfected with siRNA using Lipofectamine 2000 (Invitrogen) according to manufacturer's protocol. Mouse siRNA silencer for Myh9 gene Myosin II-A (NMHC II-A) (Invitrogen, no. 262920) and mouse siRNA silencer for Myh10 gene Myosin II-B (NMHC II-B) (Invitrogen, no. 176254) were obtained from Life Technologies. Silencer Negative Control No. 1 siRNA (Invitrogen, AM4611) was used as control. Circularity index. The circularity of colonies was calculated using the formula of 4p Â (area)/(perimeter)2. A perfect circle has a value of 1.0. Confocal imaging. After colonies were fixed and immunofluorescently labelled, confocal microscopy was performed using a Leica SP8-STED microscope to obtain 3D reconstructive images of the colonies (Supplementary Movies 1­3). A Â 20 oil immersion objective was used. Each colony was imaged using 250 z-stack images with each step of B0.8 mm. Fluorescence was detected using a photomultiplier tube or Hybrid Detector (HyD). RT­PCR analysis. RNA of mESC spheroids from 3D fibrin gel culture was extracted using Trizol reagent according to the supplier's instruction (Invitrogen). Extracted mRNA was then used for reverse transcription using SSIIRT (Invitrogen). The cDNA was then amplified using a PCR kit (QIAGEN). The expression of Nanog, Oct3/4, Sox2, Fgf5, Otx2, Sox1, Hand1, Brachyury, Twist2, Gata4, Gata6 and Sox17 mRNA was examined. The mRNA of glyceraldehyde-3-phosphate dehydrogenase (GAPDH) was used as an internal control. The primer sequences are shown in Supplementary Table 1. Real-Time qRT­PCR analysis. OGTR1 cells were cultured for 5 days in ­LIF 3D soft fibrin gels for 5 days. Fibrin gels were dissolved and the differentiated colonies were dissociated with 0.25% TrypLE (Invitrogen), resuspended in PBS with 1% serum. Cells were isolated into DsRed::Brachyury fluorescence-expressing and DsRed-negative cells using fluorescence-activated cell sorting (FACS; Beckman). First we used chemical differentiation factors to analyse the DsRed-negative cells. The DsRed-negative cells were differentiated into endoderm-like cells with continuous treatment of 100 ng ml À 1 of ActivinA70 for 3 days in regular ­LIF medium on gelatin-coated six-well plates. The DsRed-negative cells were differentiated into ectoderm-like cells by gradually reducing serum in ­LIF medium till the second day where the medium was replaced with serum-free medium supplemented with 5 mM retinoic acid71 for the remaining 24 h on gelatin-coated six-well plates; Fig. 3). After treatment with retinoic acid or with ActivinA, the DsRed-negative cells expressed high levels of E-cadherin or low levels of E-cadherin (Fig. 4). To obtain position-specific gene information, we used the knowledge gained from the chemical differentiation method and isolated W4 cells (OGTR1 cells were not used to avoid florescence interference during cell sorting) that had been grown for 5 days in the soft fibrin gels in ­LIF condition and then added them briefly to the top of the fibrin (binds to avb3 integrin) gels for 5 min. The attached cells are likely to be mostly mesoderm-like cells. We gently collected the unattached cells (presumably a mixture of ectoderm- and endoderm-like cells) in the medium and stained them using anti-E-cadherin antibodies (primary anti-E-cadherin antibody (rat) DECMA-1; secondary antibody anti-rat-IgG FITC; both from Sigma), and then we sorted these cells using FACS into high and low E-cadherin-expressing cells (Supplementary Fig. 3). The sorted DsRed-positive cells (from the OGTR1 cell line), high E-cadherin expression cells and the remainder low E-cadherin expression cells were then analysed by real-time qRT­PCR (Fig. 2). All cDNA sequences were retrieved from the National Center for Biotechnology Information (NCBI) database. All data were analysed using comparative cycle threshold method for relative gene expression against GAPDH. The primer sequences are shown in Supplementary Table 2. Statistical analysis. Student's t-test was applied to all statistical analyses.
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+31. Rohani, N., Canty, L., Luu, O., Fagotto, F. & Winklbauer, R. EphrinB/EphB signaling controls embryonic germ layer separation by contact-induced cell detachment. PLoS Biol. 9, e1000597 (2011). 32. Tam, P. P. L. & Loebel, D. A. F. Gene function in mouse embryogenesis: get set for gastrulation. Nat. Rev. Genetics 8, 368­381 (2007). 33. Koelle, S., Reese, S. & Kummer, W. New aspects of gamete transport, fertilization, and embryonic development in the oviduct gained by means of live cell imaging. Theriogenology 73, 786­795 (2010). 34. Nichols, J. & Smith, A. Pluripotency in the embryo and in culture. Cold Spring Harb. Perspect. Biol. 4, a008128 (2012). 35. Mahmoud, H., Wagoner Johnson, A., Chien, E. K., Poellmann, M. J. & McFarlin, B. System-level biomechanical approach for the evaluation of term and preterm pregnancy maintenance. J. Biomech. Eng. 135, 021009­021009 (2013). 36. Byfield, F. J. et al. Cathelicidin LL-37 increases lung epithelial cell stiffness, decreases transepithelial permeability, and prevents epithelial invasion by Pseudomonas aeruginosa. J. Immunol. 187, 6402­6409 (2011). 37. Hong, H. & Stegemann, J. P. 2D and 3D collagen and fibrin biopolymers promote specific ECM and integrin gene expression by vascular smooth muscle cells. J. Biomater. Sci. Polymer Edn 19, 1279­1293 (2008). 38. Lin, G. L. et al. Activation of beta 1 but not beta 3 integrin increases cell traction forces. FEBS Lett. 587, 763­769 (2013). 39. Stephens, L. E. et al. Deletion of Beta-1 integrins in mice results in inner cell mass failure and periimplantation lethality. Genes Dev. 9, 1883­1895 (1995). 40. Lei, L. et al. Endothelial expression of beta 1 integrin is required for embryonic vascular patterning and postnatal vascular remodeling. Mol. Cell Biol. 28, 794­802 (2008). 41. Hodivala-Dilke, K. M. et al. beta 3-integrin-deficient mice are a model for Glanzmann thrombasthenia showing placental defects and reduced survival. J. Clin. Invest. 103, 229­238 (1999). 42. Singh, H. & Aplin, J. D. Adhesion molecules in endometrial epithelium: tissue integrity and embryo implantation. J. Anat. 215, 3­13 (2009). 43. Morris, S. A. et al. Dynamics of anterior-posterior axis formation in the developing mouse embryo. Nat. Commun. 3, 673 (2012). 44. Zeng, D. et al. Collagen/beta(1) integrin interaction is required for embryoid body formation during cardiogenesis from murine induced pluripotent stem cells. BMC Cell Biol. 14, 5 (2013). 45. George, E. L., Georges-Labouesse, E. N., Patel-King, R. S., Rayburn, H. & Hynes, R. O. Defects in mesoderm, neural tube and vascular development in mouse embryos lacking fibronectin. Development 119, 1079­1091 (1993). 46. Kelly, O. G., Pinson, K. I. & Skarnes, W. C. The Wnt co-receptors Lrp5 and Lrp6 are essential for gastrulation in mice. Development 131, 2803­2815 (2004). 47. Liu, P. T. et al. Requirement for Wnt3 in vertebrate axis formation. Nat. Genet. 22, 361­365 (1999). 48. Schier, A. F. & Shen, M. M. Nodal signalling in vertebrate development. Nature 403, 385­389 (2000). 49. Kolahi, K. S. et al. Effect of substrate stiffness on early mouse embryo development. PLoS ONE 7, e41717 (2012). 50. Gilbert, S. F. Developmental Biology 9th edn (Sinauer Associates, 2010). 51. Campas, O. et al. Quantifying cell-generated mechanical forces within living embryonic tissues. Nat. Methods 11, 183­189 (2014). 52. Kasza, K. E. & Zallen, J. A. Dynamics and regulation of contractile actin-myosin networks in morphogenesis. Curr. Opin. Cell Biol. 23, 30­38 (2011). 53. Poh, Y. C. et al. Dynamic force-induced direct dissociation of protein complexes in a nuclear body in living cells. Nat. Commun. 3, 866 (2012). 54. Dupont, S. et al. Role of YAP/TAZ in mechanotransduction. Nature 474, 179­183 (2011). 55. Sun, Y. et al. Hippo/YAP-mediated rigidity-dependent motor neuron differentiation of human pluripotent stem cells. Nat. Mater. (2014); doi:10.1038/nmat3945. 56. Tanaka, T. S., Davey, R. E., Lan, Q., Zandstra, P. W. & Stanford, W. L. Development of a gene-trap vector with a highly sensitive fluorescent protein reporter system for expression profiling. Genesis 46, 347­356 (2008). 57. Chappell, S. A., Edelman, G. M. & Mauro, V. P. A 9-nt segment of a cellular mRNA can function as an internal ribosome entry site (IRES) and when present in linked multiple copies greatly enhances IRES activity. Proc. Natl Acad. Sci. USA 97, 1536­1541 (2000). 58. Nagai, T. et al. A variant of yellow fluorescent protein with fast and efficient maturation for cell-biological applications. Nat. Biotechnol. 20, 87­90 (2002). 59. Liu, C., Tsai, P., Garcia, A., Logeman, B. & Tanaka, T. S. A possible role of reproductive homeobox 6 in primordial germ cell differentiation. Int. J. Dev. Biol. 55, 909­916 (2011).
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5000
+
+60. Szymczak, A. L. et al. Correction of multi-gene deficiency in vivo using a single `self-cleaving' 2A peptide-based retroviral vector. Nat. Biotechnol. 22, 760­760 (2004). 61. Vintersten, K. et al. Mouse in red: Red fluorescent protein expression in mouse ES cells, embryos, and adult animals. Genesis 40, 241­246 (2004). 62. Chowdhury, F. et al. Material properties of the cell dictate stress-induced spreading and differentiation in embryonic stem cells. Nat. Mater. 9, 82­88 (2010). 63. Clements, D., Taylor, H. C., Herrmann, B. G. & Stott, D. Distinct regulatory control of the Brachyury gene in axial and non-axial mesoderm suggests separation of mesoderm lineages early in mouse gastrulation. Mech. Dev. 56, 139­149 (1996). 64. Li, Y., Yokohama-Tamaki, T. & Tanaka, T. S. Short-term serum-free culture reveals that inhibition of Gsk3b induces the tumor-like growth of mouse embryonic stem cells. PLoS ONE 6, e21355 (2011). 65. Li, Y. et al. Gene expression profiling reveals the heterogeneous transcriptional activity of Oct3/4 and its possible interaction with Gli2 in mouse embryonic stem cells. Genomics 102, 456­467 (2013). 66. Suzuki, A. et al. Maintenance of embryonic stem cell pluripotency by Nanogmediated reversal of mesoderm specification. Nat. Clin. Pract. Cardiovasc. Med. 3(Suppl 1): S114­S122 (2006). 67. Wang, N. & Butler, J. P. Mechanotransduction across the cell surface and through the cytoskeleton. Science 260, 1124 (1993). 68. Chen, L. et al. The enhancement of cancer stem cell properties of MCF-7 cells in 3D collagen scaffolds for modeling of cancer and anti-cancer drugs. Biomaterials 33, 1437­1444 (2012). 69. Zandstra, P. W., Le, H. V., Daley, G. Q., Griffith, L. G. & Lauffenburger, D. A. Leukemia inhibitory factor (LIF) concentration modulates embryonic stem cell self-renewal and differentiation independently of proliferation. Biotechnol. Bioeng. 69, 607­617 (2000). 70. Gadue, P., Huber, T. L., Paddison, P. J. & Keller, G. M. Wnt and TGF-beta signaling are required for the induction of an in vitro model of primitive streak formation using embryonic stem cells. Proc. Natl Acad. Sci. USA 103, 16806­16811 (2006). 71. Bain, G., Kitchens, D., Yao, M., Huettner, J. E. & Gottlieb, D. I. Embryonic stem-cells express neuronal properties in-vitro. Dev. Biol. 168, 342­357 (1995).
+
+Acknowledgements
+We thank Dr D. Leckband for sharing the protocol of cell sorting using anti-E-cadhrin antibodies. Constitutive active mutant of RhoA (RhoA-V14) plasmid was generously provided by Dr Yingxiao Wang at University of California San Diego. We thank the technical support from the central facilities at School of Life Science and Technology, Huazhong University of Science and Technology. This work was supported by USA NIH grant GM072744 (to N.W.) and funds from Huazhong University of Science and Technology.
+
+Author contributions
+Y.-C.P. and N.W. conceived the project; Y.-C.P. and N.W. designed the experiments. Y.-C.P., J.C., Y.H., H.Y., S.Z., J.C., D.C.W., L.W., Q.J., R.S., W.Y., Y.T., A.T. and T.S.T. carried out the experiments and analysed the data. Y.-C.P, T.S.T. and N.W. wrote the manuscript.
+
+Additional information
+Supplementary Information accompanies this paper at http://www.nature.com/ naturecommunications Competing financial interests: The authors declare no competing financial interests. Reprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ How to cite this article: Poh, Y.-C. et al. Generation of organized germ layers from a single mouse embryonic stem cell. Nat. Commun. 5:4000 doi: 10.1038/ncomms5000 (2014). This work is licensed under a Creative Commons AttributionNonCommercial-ShareAlike 3.0 Unported License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http:// creativecommons.org/licenses/by-nc-sa/3.0/
+
+12
+
+NATURE COMMUNICATIONS | 5:4000 | DOI: 10.1038/ncomms5000 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+
